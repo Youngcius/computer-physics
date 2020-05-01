@@ -1,2 +1,2 @@
 # computer-physics
-Howworks of the course named Computer Physics 
+Howwork of the course named Computer Physics
